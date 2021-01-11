@@ -4,6 +4,7 @@ Config for my voron 2.4 with fluidd and prusaslicers
 
 
 Update MCUS:
+
 cd ~/klipper/
 make menuconfig
 make clean
